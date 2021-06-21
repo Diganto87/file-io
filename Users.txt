@@ -1,0 +1,1 @@
+{"firstName":"Md Jahidul Islam","lastName":"Diganto","gender":"male","userName":"diganto","password":"1234","present_address":"16\/2 Puran dhaka","parmanent_address":"Paltan","phone":"01521209863","contact_email":"diganto1203@gmail.com","website_link":"https:\/\/www.aiub.edu\/","birthday":"1998-07-15","religion":"Buddu"}
